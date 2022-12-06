@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, I'm Theo 👋. creator of codebytheo youtube channel.
 
-<!--
-**codebytheo/codebytheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focus on frontend - web developer
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/yothphotos" target="_blank">
+    <img src="https://img.shields.io/twitter/url?color=blue&label=INSTAGRAM&logo=instagram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fyothphotos%2F" alt="instagram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCF3t40-awz3eOb9FqNhcesQ" target="_blank">
+    <img src="https://img.shields.io/twitter/url?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF3t40-awz3eOb9FqNhcesQ" alt="theoyoth's YouTube channel"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Latest YouTube videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+- [Create QR Code Generator using React js](https://www.youtube.com/watch?v=iIuMRD4ooEk)
+- [I create Landing page using React js + Framer motion | #3](https://www.youtube.com/watch?v=vpX7mCdEb0U&t=31s)
+- [I create Landing page using React js + Framer motion | #2](https://www.youtube.com/watch?v=SWzjuuwT85E)
+- [I create Landing page using React js + Framer motion | #1](https://www.youtube.com/watch?v=fkp--KAzJZA)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
