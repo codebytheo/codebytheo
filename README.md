@@ -6,11 +6,13 @@
   <a href="https://instagram.com/yothphotos" target="_blank">
     <img src="https://img.shields.io/twitter/url?color=blue&label=INSTAGRAM&logo=instagram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fyothphotos%2F" alt="instagram"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCF3t40-awz3eOb9FqNhcesQ" target="_blank">
+  <a href="[https://www.youtube.com/channel/UCF3t40-awz3eOb9FqNhcesQ](https://www.youtube.com/@codebytheo)" target="_blank">
     <img src="https://img.shields.io/twitter/url?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF3t40-awz3eOb9FqNhcesQ" alt="theoyoth's YouTube channel"/>
   </a>
 </p>
 
+---
+<img src="https://photos.google.com/u/4/album/AF1QipOPYpNbTVcYYHMOZ5btSc5jXiDfo-MBi7ZPwKM/photo/AF1QipMTyyWy7d-GrMsXxAvto-8JJy57YeD4zrpQVmk" alt="banner youtube"/>
 ---
 
 ### Latest YouTube videos
