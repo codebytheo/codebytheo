@@ -12,7 +12,7 @@
 </p>
 
 ---
-![banner youtube](https://photos.google.com/u/4/album/AF1QipOPYpNbTVcYYHMOZ5btSc5jXiDfo-MBi7ZPwKM/photo/AF1QipMTyyWy7d-GrMsXxAvto-8JJy57YeD4zrpQVmk)
+![banner youtube](https://freeimage.host/i/s7-cover.HC6TQbs)
 ---
 
 ### Latest YouTube videos
