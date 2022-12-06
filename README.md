@@ -1,4 +1,4 @@
-## Hi, I'm Theo 👋. creator of codebytheo youtube channel.
+## Hi, I'm Theo 👋. founder of the CodeByTheo youtube channel.
 
 ### Focus on frontend - web developer
 
