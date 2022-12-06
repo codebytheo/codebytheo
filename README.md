@@ -12,7 +12,7 @@
 </p>
 
 ---
-![banner youtube]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://photos.google.com/u/4/album/AF1QipOPYpNbTVcYYHMOZ5btSc5jXiDfo-MBi7ZPwKM/photo/AF1QipMTyyWy7d-GrMsXxAvto-8JJy57YeD4zrpQVmk))
+![banner youtube](https://photos.google.com/u/4/album/AF1QipOPYpNbTVcYYHMOZ5btSc5jXiDfo-MBi7ZPwKM/photo/AF1QipMTyyWy7d-GrMsXxAvto-8JJy57YeD4zrpQVmk)
 ---
 
 ### Latest YouTube videos
