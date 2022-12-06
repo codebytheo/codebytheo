@@ -12,9 +12,6 @@
 </p>
 
 ---
-![banner youtube](https://freeimage.host/i/s7-cover.HC6TQbs)
-<img src="https://freeimage.host/i/s7-cover.HC6TQbs" alt="banner youtube"/>
----
 
 ### Latest YouTube videos
 
